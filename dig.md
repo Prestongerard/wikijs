@@ -1,7 +1,7 @@
 <!-- TITLE: CURL domains and grab output -->
 <!-- SUBTITLE: A quick summary of curl -->
 
-# Header
+# Script
 
 CURL domains and grab output
 
@@ -14,6 +14,6 @@ for i in ${urls[@]}; do
   echo `curl ${i}` >> dataout
   echo "------------------------------------------------------------------------" >> dataout
 done
-# Header
+# Commonds (Common + Commands)
 
 $ curl -sIL
