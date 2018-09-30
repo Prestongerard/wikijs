@@ -1,5 +1,5 @@
 <!-- TITLE: CURL domains and grab output -->
-<!-- SUBTITLE: A quick summary of Dig -->
+<!-- SUBTITLE: A quick summary of curl -->
 
 # Header
 
@@ -14,3 +14,6 @@ for i in ${urls[@]}; do
   echo `curl ${i}` >> dataout
   echo "------------------------------------------------------------------------" >> dataout
 done
+# Header
+
+$ curl -sIL
