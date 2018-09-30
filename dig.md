@@ -1,7 +1,7 @@
-<!-- TITLE: CURL domains and grab output -->
+<!-- TITLE: Curl -->
 <!-- SUBTITLE: A quick summary of curl -->
 
-# Script
+# Script - CURL domains and grab output
 
 CURL domains and grab output
 
