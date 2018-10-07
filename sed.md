@@ -5,7 +5,7 @@
 
 sed
 
-sed -i -e s/<thing to change>/<thing to change it to>/g -e s/<other thing to change>/<other thing to change it to>/2  <file to change>
+click edit to see full sed command:    sed -i -e s/<thing to change>/<thing to change it to>/g -e s/<other thing to change>/<other thing to change it to>/2  <file to change>
 
 -i is an insertion flag. Lets you insert the changes into the targeted file
 
