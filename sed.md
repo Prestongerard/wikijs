@@ -18,3 +18,11 @@ Adding -e before the things to change lets you chain multiple changes into one c
 /2 or really /<number> means change the <number> instance of that thing in a line
 
 Look, sed is like super complicated but also SUPER flexible. It should probably have its own L&L one of these days. You can do a heck of a lot with it and really just like read this long guide or the one put out by Linode.
+
+-----
+
+
+
+-----
+
+**
