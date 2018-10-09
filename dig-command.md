@@ -3,6 +3,6 @@
 
 # Test for rDNS
 
-You can test for Reverse DNS using the command 'dig -x $ip
+dig -x $ip
 
 #
