@@ -4,3 +4,5 @@
 # Sysadmin
 
 Good Sysadmins are lazy Sysadmins.
+
+Keep it simple stupid.
